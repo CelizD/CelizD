@@ -18,6 +18,10 @@ I enjoy taking an idea from **concept → architecture → code → deployment �
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+secure+and+scalable+software;Turning+ideas+into+real+products;Automating+repetitive+processes;Always+looking+for+a+better+way+to+build" alt="Typing animation" />
 
+<br />
+
+**🇺🇸 English** · [🇲🇽 Español](./README_ES.md)
+
 </div>
 
 ---
@@ -270,7 +274,7 @@ _There is almost always a better way to build something — you just have to kee
 
 <br /><br />
 
-**🇺🇸 English** · 🇲🇽 Spanish version coming next
+**🇺🇸 English** · [🇲🇽 Español](./README_ES.md)
 
 <br />
 
